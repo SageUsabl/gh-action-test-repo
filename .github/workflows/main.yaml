@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: SageUsabl/gh-action@v1
+      uses: SageUsabl/gh-action
       with:
         who-to-greet: "Sage"
     - name: Get the output time
