@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  usabl_job:
+    runs-on: ubuntu-latest
+    name: A job to duplicate a usabl task
+    steps:
+    - name: Duplicate Usabl task
+      id: hello
+      uses: SageUsabl/gh-action@v3
+      with:
+        companyID: "rTOKbasYCR8DlvWcVuQT"
+        tasksToCopy:
+        - "MO4iY5GC6J3YeSnmzE8S"
+        accessCode: "00450294-71a4-4dcb-84bc-cfc68c66f74c"
