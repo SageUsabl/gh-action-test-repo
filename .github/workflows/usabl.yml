@@ -7,8 +7,8 @@ jobs:
     steps:
       - name: Duplicate Usabl task
         id: hello
-        uses: SageUsabl/gh-action@v4
+        uses: SageUsabl/gh-action@v5
         with:
           companyID: "rTOKbasYCR8DlvWcVuQT"
-          tasksToCopy: ["MO4iY5GC6J3YeSnmzE8S"]
+          tasksToCopy: '["MO4iY5GC6J3YeSnmzE8S"]'
           accessCode: "00450294-71a4-4dcb-84bc-cfc68c66f74c"
