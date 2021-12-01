@@ -7,8 +7,8 @@ jobs:
     steps:
       - name: Duplicate Usabl task
         id: hello
-        uses: Usabl-dev/usabl-github-action@v1
+        uses: Usabl-dev/usabl-github-action@dev
         with:
-          companyID: "X2QHr4e5ZsSHdPnhNm0e"
-          tasksToCopy: '["0HiT4QXAJetrzC2wXSrD"]'
-          accessCode: "607967eb-90b7-4fc7-a1df-c8950c5d73c7"
+          companyID: "rTOKbasYCR8DlvWcVuQT"
+          tasksToCopy: '["202d49f7-f936-4e01-b640-530c154259e7"]'
+          accessCode: "qoN35nfqLewnd9g1ZEeU"
