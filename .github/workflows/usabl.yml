@@ -10,5 +10,5 @@ jobs:
         uses: Usabl-dev/usabl-github-action@dev
         with:
           companyID: "rTOKbasYCR8DlvWcVuQT"
-          tasksToCopy: '["202d49f7-f936-4e01-b640-530c154259e7"]'
-          accessCode: "qoN35nfqLewnd9g1ZEeU"
+          tasksToCopy: '["qoN35nfqLewnd9g1ZEeU"]'
+          accessCode: "202d49f7-f936-4e01-b640-530c154259e7"
